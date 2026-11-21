@@ -13,4 +13,5 @@ Open `index.html` and press play. The page is self-contained.
 - `autograph.wav` is the 12.0 s mix.
 - `autograph.patch` is the source change for `chimera render autograph`.
 
-Built with [CHIMERA](https://github.com/jamesondh/chimera-vocal-synth).
+Built with [CHIMERA](https://github.com/jamesondh/chimera-vocal-synth). The change lives on the
+[`autograph` branch of the fork](https://github.com/sables-phoenix/chimera-vocal-synth/tree/autograph).
